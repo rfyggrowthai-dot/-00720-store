@@ -1,0 +1,17 @@
+{
+  "name": "WASIT 00720 V115 ULTIMATE",
+  "short_name": "WASIT 00720",
+  "description": "وسيط ضامن - 5 منصات + ترند كل 4 ساعات - عمولة 7% بعد التسليم - USDT TRC20",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#FFD400",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/891/891419.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
